@@ -45,7 +45,7 @@ export const ar = {
   workDays: "السبت - الأربعاء",
   workTime: "8:30 ص – 12:00 م | 2:00 م – 4:30 م (الخميس: 8:30 ص – 12:00 م)",
   fridayClosed: "الجمعة: مغلق",
-  madeWith: "صُنع بـ",
+  madeWith: "صنع",
   toServeYou: "لخدمتكم",
   allRightsReserved: "جميع الحقوق محفوظة",
 
