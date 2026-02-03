@@ -22,7 +22,7 @@ const ClinicHeader = () => {
           <div className={`hidden md:flex items-center gap-6 text-sm text-muted-foreground ${isRTL ? "" : "flex-row-reverse"}`}>
             <a href="tel:+213775461347" className="flex items-center gap-2 hover:text-primary transition-colors">
               <Phone className="w-4 h-4" />
-              <span>0775 46 13 47</span>
+              <span dir="ltr">0775 46 13 47</span>
             </a>
             <div className="flex items-center gap-2">
               <MapPin className="w-4 h-4" />
